@@ -13,3 +13,9 @@
 [WorkBuddy 体验入口](https://www.workbuddy.cn/share/asset?shareCode=aNTlXFAKyseVAXYH08cint&sig=w0T9C_mSP9-vCsac)
 
 此仓库仅存放展示图片，不包含技能源码、原始照片或个人配置。公开展示不代表授予第三方肖像使用许可。
+
+## 拼豆图纸样例
+
+[查看逐格色号图](images/bead-pattern/mard-bunny-labeled.png) · [V2EX Markdown 文案](bead-pattern-v2ex.md)
+
+MARD 色值采用社区参考数据，样例为数字图纸，非实物照片。
